@@ -23,9 +23,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KhurshidShod&theme=moltack&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KhurshidShod&theme=moltack&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhurshidShod&theme=moltack&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhurshidShod&theme=moltack&hide_border=true&include_all_commits=false&count_private=false&layout=compact)## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KhurshidShod&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
