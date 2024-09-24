@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://instagram.com/xrwd____" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-3d-logo-download-in-png-blend-fbx-gltf-file-formats--social-media-pack-logos-2447888.png" alt="xrwd____" height="40" width="40" /></a>
 <a href="https://t.me/x_shod1yev02" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/4085/PNG/512/telegram_logo_icon_259365.png" alt="https://t.me/x_shod1yev02" height="40" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~010ae848acd837647a" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/upwork-3d-icon-download-in-png-blend-fbx-gltf-file-formats--social-media-logos-logo-brand-pack-icons-9336281.png" alt="https://www.upwork.com/freelancers/~010ae848acd837647a" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
