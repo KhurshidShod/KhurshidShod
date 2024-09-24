@@ -15,7 +15,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xrwd____) 
-[![Telegram](https://cdn.icon-icons.com/icons2/4085/PNG/512/telegram_logo_icon_259365.png)](https://t.me/x_shod1yev02) 
+[![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://t.me/x_shod1yev02) 
 [![Upwork](https://cdn3d.iconscout.com/3d/premium/thumb/upwork-3d-icon-download-in-png-blend-fbx-gltf-file-formats--social-media-logos-logo-brand-pack-icons-9336281.png)](https://www.upwork.com/freelancers/~010ae848acd837647a) 
 
 # 💻 Tech Stack:
